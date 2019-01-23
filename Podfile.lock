@@ -1,0 +1,15 @@
+PODS:
+  - AMapFoundation (1.5.5)
+  - AMapLocation (2.6.1):
+    - AMapFoundation (~> 1.4)
+
+DEPENDENCIES:
+  - AMapLocation
+
+SPEC CHECKSUMS:
+  AMapFoundation: 652bd70ba579f48a98bdf0c74d6e62a89a06ca58
+  AMapLocation: cf024b53dc03663efb4ea4bcce27d4cce58bb97a
+
+PODFILE CHECKSUM: cd00b44344ebdbb3221614e5be432d213c274fcc
+
+COCOAPODS: 1.4.0
